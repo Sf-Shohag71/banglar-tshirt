@@ -1,4 +1,11 @@
+.navbar{
+    background-color: lightgrey;
+    padding: 10px 0;
+}
 .navbar a{
     margin-right: 15px;
     font-size: 18px;
+}
+.navbar a:hover{
+    color: blue;
 }
